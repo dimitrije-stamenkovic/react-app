@@ -1,0 +1,56 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should take a snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="App bg-slate-200"
+  >
+    <div
+      class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex justify-center items-center h-screen"
+    >
+      <div
+        class="max-w-3xl mx-auto "
+      >
+        <p
+          class="my-8 text-2xl text-center"
+          data-testid="counter"
+        >
+          0
+        </p>
+        <div
+          class="flex"
+        >
+          <button
+            class="mx-1 inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md shadow-sm text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500"
+            data-testid="button-1"
+            type="button"
+          >
+            +1
+          </button>
+          <button
+            class="mx-1 inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md shadow-sm text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500"
+            data-testid="button-2"
+            type="button"
+          >
+            +2
+          </button>
+          <button
+            class="mx-1 inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md shadow-sm text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500"
+            data-testid="button-3"
+            type="button"
+          >
+            -1
+          </button>
+          <button
+            class="mx-1 inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md shadow-sm text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500"
+            data-testid="button-4"
+            type="button"
+          >
+            -2
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
