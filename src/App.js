@@ -10,7 +10,7 @@ function App() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex justify-center items-center h-screen">
         {/* We've used 3xl here, but feel free to try other max-widths based on your needs */}
         <div className="max-w-3xl mx-auto ">
-
+          <p className='my-8 text-2xl text-center'>Hellllo</p>
           <p data-testid="counter" className='my-8 text-2xl text-center'>{count}</p>
 
           <div class="flex">
